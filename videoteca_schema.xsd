@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<!--elementi di film -->
+<xsd:element name="copertina" type="xsd:string"/>
+<xsd:element name = "titolo" type="xsd:string" />
+<xsd:element name = "anno" type="xsd:integer" />
+<xsd:element name = "durata" type="xsd:integer" />
+<xsd:element name = "genere" type="xsd:string" />
+<xsd:element name = "trama" type="xsd:string" />
+<xsd:element name ="trailer" type="xsd:string" />
+<xsd:attribute name = "ISAN" type="xsd:string" />
+<!-- elementi di regista -->
+<xsd:element name = "nome_regista" type="xsd:string" />
+<xsd:element name = "cognome_regista" type="xsd:string" />
+<!-- elementi di attore -->
+<xsd:element name = "nome_attore" type="xsd:string" />
+<xsd:element name = "cognome_attore" type="xsd:string" />
+
+<!--ATTORE -->
+<xsd:element name = "attore">
+   <xsd:complexType>
+   <xsd:sequence>
+  <xsd:element ref="nome_attore" minOccurs="1" maxOccurs="1" />
+  <xsd:element ref="cognome_attore" minOccurs="1" maxOccurs="1" />
+  </xsd:sequence>
+   </xsd:complexType>
+   </xsd:element>
+   <!--REGISTA-->
+   <xsd:element name = "regista">
+   <xsd:complexType>
+   <xsd:sequence>
+   <xsd:element ref="nome_regista" minOccurs="1" maxOccurs="1" />
+   <xsd:element ref="cognome_regista" minOccurs="1" maxOccurs="1" />
+   </xsd:sequence>
+   </xsd:complexType>
+   </xsd:element>
+   <!--FILM-->
+   <xsd:element name="film">
+   <xsd:complexType>
+    <xsd:sequence>
+   <xsd:element ref="copertina" minOccurs="1" maxOccurs="1"/>
+   <xsd:element ref="titolo" minOccurs="1" maxOccurs="1" />
+   <xsd:element ref="anno" minOccurs="1" maxOccurs="1" />
+   <xsd:element ref="durata" minOccurs="1" maxOccurs="1" />
+   <xsd:element ref="genere" minOccurs="1" maxOccurs="1" />
+   <xsd:element ref="trama" minOccurs="1" maxOccurs="1" />
+   <xsd:element ref="trailer" minOccurs="1" maxOccurs="1" />
+   <xsd:element ref="regista" minOccurs="1" maxOccurs="1" />
+   <xsd:element ref="attore" minOccurs="2" maxOccurs="5" />
+    </xsd:sequence>
+    <xsd:attribute ref="ISAN" use="required" />
+   </xsd:complexType>   
+   </xsd:element>
+  <!--VIDEOTECA-->
+  <xsd:element name="VIDEOTECA">
+  <xsd:complexType>
+  <xsd:sequence>
+  <xsd:element ref="film" minOccurs="1" maxOccurs="10" />
+  </xsd:sequence>
+  </xsd:complexType>  
+  </xsd:element>
+</xsd:schema>

@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@500&display=swap');
+
+body {
+  background-color:#272727;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+div.form{
+  background-color:#ff7f27;
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  padding: 60px 0;
+  margin-top:70px;
+  border-radius: 4px;
+}
+.input{
+ margin-left:25%;
+}
+div h1{
+    font-size:40px;
+	color:#272727;
+	font-family: 'Akshar', sans-serif;
+}
+.inputT{
+  text-align:left;
+  border: 2px solid #333;
+  display: block;
+  width: 60%;
+  outline: none;
+  height: 40px;
+  line-height: 60px;
+  border-radius: 4px;
+}
+/*.cognome{
+  text-align:left;
+  border: 2px solid #333;
+  display: block;
+  width: 60%;
+  outline: none;
+  height: 40px;
+  line-height: 60px;
+  border-radius: 4px;
+}
+.email{
+  text-align:left;
+  border: 2px solid #333;
+  display: block;
+  width: 60%;
+  outline: none;
+  height: 40px;
+  line-height: 60px;
+  border-radius: 4px;
+}
+.password{
+  text-align:left;
+  border: 2px solid #333;
+  display: block;
+  width: 60%;
+  outline: none;
+  height: 40px;
+  line-height: 60px;
+  border-radius: 4px;
+}*/
+.invio{
+  background-color:#333;
+  text-align:center;
+  color:#ff7f27;
+  font-size:18px;
+  border: 2px solid #333;
+  display:block;
+  width: 61%;
+  outline:none;
+  height: 40px;
+  line-heigth:60px;
+  border-radius: 4px;
+}
+.link{
+	text-align:center;
+	color:#fff;
+}
+.link a{
+	color:#fff;
+}

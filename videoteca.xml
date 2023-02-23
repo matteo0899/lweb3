@@ -1,0 +1,322 @@
+﻿<?xml version="1.0"?>
+<VIDEOTECA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="videoteca_schema.xsd">
+<film ISAN ="0000-0002-B3C8-0000-3-0000-0000-S">
+  <copertina>../img/copertine/inception2.jpg</copertina>
+  <titolo>INCEPTION</titolo>
+  <anno>2010</anno>
+  <durata>148</durata>
+  <genere>FANTASCIENZA</genere>
+<trama>
+Dom Cobb possiede una qualifica speciale: è in grado di
+inserirsi nei sogni altrui per prelevare i segreti nascosti nel
+più profondo del subconscio.
+Viene contattato da Saito, un potentissimo industriale giapponese.
+</trama>
+<trailer>https://www.youtube.com/embed/gzhcWpzUUIg</trailer>
+  <regista>
+      <nome_regista>Christopher</nome_regista>
+      <cognome_regista>Nolan</cognome_regista>
+  </regista>
+  <attore>
+      <nome_attore>Leonardo</nome_attore>
+      <cognome_attore>Di Caprio</cognome_attore>
+  </attore>
+  <attore>
+      <nome_attore>Joseph</nome_attore>
+      <cognome_attore>Gordon-Levitt</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Ellen</nome_attore>
+      <cognome_attore>Page</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Ken</nome_attore>
+      <cognome_attore>Watanabe</cognome_attore>
+ </attore>
+</film>
+
+<film ISAN ="0900-0102-B3Q5-0100-3-0130-0100-D">
+  <copertina>../img/copertine/io_sono_leggenda_2.jpg</copertina>
+  <titolo>IO SONO LEGGENDA</titolo>
+  <anno>2007</anno>
+  <durata>141</durata>
+  <genere>HORROR</genere>
+<trama>
+New York, 2012. Un misterioso virus ha ucciso quasi tutti gli uomini e li ha trasformati in vampiri. 
+L'unico essere umano sopravvissuto al contagio è il dottor Robert Neville, 
+che lotta disperatamente per trovare una cura.
+</trama>
+<trailer>https://www.youtube.com/embed/ec3rmiTnm44</trailer>
+  <regista>
+      <nome_regista>Francis</nome_regista>
+      <cognome_regista>Lawrence</cognome_regista>
+  </regista>
+  <attore>
+      <nome_attore>Will</nome_attore>
+      <cognome_attore>Smith</cognome_attore>
+  </attore>
+  <attore>
+      <nome_attore>Alice</nome_attore>
+      <cognome_attore>Braga</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Charlie</nome_attore>
+      <cognome_attore>Tahan</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Dash</nome_attore>
+      <cognome_attore>Mihok</cognome_attore>
+ </attore>
+</film>
+
+<film ISAN ="09340-0102-B3Q5-0100-3-0130-01560-L">
+  <copertina>../img/copertine/district9_2.jpg</copertina>
+  <titolo>DISTRICT 9</titolo>
+  <anno>2009</anno>
+  <durata>112</durata>
+  <genere>FANTASCIENZA</genere>
+<trama>
+Sudafrica, 1982. Un'enorme nave spaziale aliena si staglia nei cieli di Johannesburg,
+dove rimane per settimane, immobile, senza dare segni di vita.
+Verosimilmente l'astronave aliena non è in grado di ripartire,
+e a seguito di ciò gli uomini del governo sudafricano, snervati dall'attesa,
+incaricano una squadra d'esplorazione di andare ad ispezionare
+ il relitto in cerca di risposte.
+ All'interno della nave viene rinvenuta una colonia di esseri artropodi allo sbando,
+ sporchi, spossati e denutriti, che vengono condotti in salvo sulla terraferma. 
+</trama>
+<trailer>https://www.youtube.com/embed/hJqx-pMqCiQ</trailer>
+  <regista>
+      <nome_regista>Neill</nome_regista>
+      <cognome_regista>Blomkamp</cognome_regista>
+  </regista>
+  <attore>
+      <nome_attore>Sharlto</nome_attore>
+      <cognome_attore>Copley</cognome_attore>
+  </attore>
+  <attore>
+      <nome_attore>Nathalie</nome_attore>
+      <cognome_attore>Boltt</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>David</nome_attore>
+      <cognome_attore>James</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Louis</nome_attore>
+      <cognome_attore>Minnaar</cognome_attore>
+ </attore>
+</film>
+
+<film ISAN ="1620-8102-B5T5-012-3-0130-0105-Z">
+  <copertina>../img/copertine/avatar2.jpg</copertina>
+  <titolo>AVATAR</titolo>
+  <anno>2009</anno>
+  <durata>162</durata>
+  <genere>FANTASCIENZA</genere>
+<trama>
+Nel 2154, una compagnia interplanetaria terrestre, la RDA, è da alcuni anni all'opera 
+su Pandora, un mondo primordiale ricoperto da foreste pluviali, le cui flora e fauna 
+sono di dimensioni superiori rispetto a quelle terrestri. 
+Tra le specie del pianeta ve n'è una di umanoidi chiamati Na'vi;
+ per questo sono stati sviluppati gli avatar, cioè ibridi creati in laboratorio 
+ con geni umani e geni Na'vi, con ciascun avatar che può essere utilizzato e 
+ controllato solo dall'essere umano il cui DNA è stato impiegato per comporlo.
+</trama>
+<trailer>https://www.youtube.com/embed/xtBRS6KKhMs</trailer>
+  <regista>
+      <nome_regista>James</nome_regista>
+      <cognome_regista>Cameron</cognome_regista>
+  </regista>
+  <attore>
+      <nome_attore>Sam</nome_attore>
+      <cognome_attore>Worthington</cognome_attore>
+  </attore>
+  <attore>
+      <nome_attore>Zoe</nome_attore>
+      <cognome_attore>Saldana</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Stephen</nome_attore>
+      <cognome_attore>Lang</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Michelle</nome_attore>
+      <cognome_attore>Rodriguez</cognome_attore>
+ </attore>
+</film>
+
+<film ISAN ="6530-8102-D8O5-012-3-0130-9955-Z">
+  <copertina>../img/copertine/interstellar2.jpg</copertina>
+  <titolo>INTERSTELLAR</titolo>
+  <anno>2014</anno>
+  <durata>169</durata>
+  <genere>FANTASCIENZA</genere>
+<trama>
+Nel XXI secolo il pianeta Terra sta diventando inabitabile per l'uomo: il cibo scarseggia
+ perché solo poche colture resistono alla "piaga", un flagello naturale che si nutre di 
+ azoto e che consuma l'ossigeno dell’atmosfera, ed immense tempeste di sabbia 
+ rendono la vita quotidiana impossibile. 
+ Come conseguenza si è affermata una società basata sulla post-verità, che nega 
+ le conquiste scientifiche e spaziali e concentra le poche energie disponibili sulla 
+ produzione di cibo; il genere umano appare comunque destinato
+  all'estinzione in breve tempo.
+</trama>
+<trailer>https://www.youtube.com/embed/EIVMVIr3q3Y</trailer>
+  <regista>
+      <nome_regista>Cristopher</nome_regista>
+      <cognome_regista>Nolan</cognome_regista>
+  </regista>
+  <attore>
+      <nome_attore>Matthew</nome_attore>
+      <cognome_attore>McConaughey</cognome_attore>
+  </attore>
+  <attore>
+      <nome_attore>Anne</nome_attore>
+      <cognome_attore>Hathaway</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Jessica</nome_attore>
+      <cognome_attore>Chastain</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Michael</nome_attore>
+      <cognome_attore>Caine</cognome_attore>
+ </attore>
+</film>
+
+<film ISAN ="3381-8102-W903-012-3-0130-9955-Y">
+  <copertina>../img/copertine/lei2.jpg</copertina>
+  <titolo>LEI</titolo>
+  <anno>2013</anno>
+  <durata>126</durata>
+  <genere>DRAMMATICO</genere>
+<trama>
+A Los Angeles, il sensibile e solitario Theodore, uno scrittore di lettere d'amore, 
+intraprende una relazione sentimentale con Samantha, 
+il sistema operativo del suo computer dalla suadente voce femminile.
+</trama>
+<trailer>https://www.youtube.com/embed/xh6lP4F4LJg</trailer>
+  <regista>
+      <nome_regista>Spike</nome_regista>
+      <cognome_regista>Jonze</cognome_regista>
+  </regista>
+  <attore>
+      <nome_attore>Joaquin</nome_attore>
+      <cognome_attore>Phoenix</cognome_attore>
+  </attore>
+  <attore>
+      <nome_attore>Amy</nome_attore>
+      <cognome_attore>Adams</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Rooney</nome_attore>
+      <cognome_attore>Mara</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Olivia</nome_attore>
+      <cognome_attore>Wilde</cognome_attore>
+ </attore>
+</film>
+
+<film ISAN ="5621-9931-C611-012-3-0130-3476-G">
+  <copertina>../img/copertine/taken2.jpg</copertina>
+  <titolo>TAKEN</titolo>
+  <anno>2008</anno>
+  <durata>93</durata>
+  <genere>DRAMMATICO</genere>
+<trama>
+Un ex agente della CIA deve usare tutta la sua esperienza per salvare la figlia,
+ rapita da un'organizzazione di trafficanti di esseri umani.
+</trama>
+<trailer>https://www.youtube.com/embed/mfm41i_OF4g</trailer>
+  <regista>
+      <nome_regista>Pierre</nome_regista>
+      <cognome_regista>Morel</cognome_regista>
+  </regista>
+  <attore>
+      <nome_attore>Liam</nome_attore>
+      <cognome_attore>Neeson</cognome_attore>
+  </attore>
+  <attore>
+      <nome_attore>Maggie</nome_attore>
+      <cognome_attore>Grace</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Famke</nome_attore>
+      <cognome_attore>Janssen</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Katie</nome_attore>
+      <cognome_attore>Cassidy</cognome_attore>
+ </attore>
+</film>
+
+<film ISAN ="8649-3150-S333-092-3-0130-3476-P">
+  <copertina>../img/copertine/prova_a_prendermi2.jpg</copertina>
+  <titolo>PROVA A PRENDERMI</titolo>
+  <anno>2002</anno>
+  <durata>141</durata>
+  <genere>BIOGRAFICO</genere>
+<trama>
+Un agente dell'FBI è sulle tracce di un giovane artista del travestimento, che è riuscito
+ ad estorcere più di sei milioni di dollari in varie frodi, 
+ impersonando di volta in volta un personaggio diverso.
+</trama>
+<trailer>https://www.youtube.com/embed/dtKf3fpL5l0</trailer>
+  <regista>
+      <nome_regista>Steven</nome_regista>
+      <cognome_regista>Spielberg</cognome_regista>
+  </regista>
+  <attore>
+      <nome_attore>Leonardo</nome_attore>
+      <cognome_attore>DiCaprio</cognome_attore>
+  </attore>
+  <attore>
+      <nome_attore>Tom</nome_attore>
+      <cognome_attore>Hanks</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Christopher</nome_attore>
+      <cognome_attore>Walken</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Martin</nome_attore>
+      <cognome_attore>Sheen</cognome_attore>
+ </attore>
+</film>
+
+<film ISAN ="1274-0862-A886-092-3-8745-3476-C">
+  <copertina>../img/copertine/Quei_bravi_ragazzi2.jpg</copertina>
+  <titolo>QUEI BRAVI RAGAZZI</titolo>
+  <anno>1990</anno>
+  <durata>146</durata>
+  <genere>GANGSTER</genere>
+<trama>
+Un agente dell'FBI è sulle tracce di un giovane artista del travestimento, che è riuscito
+ ad estorcere più di sei milioni di dollari in varie frodi, 
+ impersonando di volta in volta un personaggio diverso.
+</trama>
+<trailer>https://www.youtube.com/embed/6OCppnXY-dg</trailer>
+  <regista>
+      <nome_regista>Martin</nome_regista>
+      <cognome_regista>Scorsese</cognome_regista>
+  </regista>
+  <attore>
+      <nome_attore>Ray</nome_attore>
+      <cognome_attore>Liotta</cognome_attore>
+  </attore>
+  <attore>
+      <nome_attore>Robert</nome_attore>
+      <cognome_attore>De Niro</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Joe</nome_attore>
+      <cognome_attore>Pesci</cognome_attore>
+ </attore>
+  <attore>
+      <nome_attore>Paul</nome_attore>
+      <cognome_attore>Sorvino</cognome_attore>
+ </attore>
+</film>
+</VIDEOTECA>

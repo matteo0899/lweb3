@@ -1,0 +1,61 @@
+		body{ 
+			margin:0px;		
+			padding-top:.5cm;
+			font-size:120%;
+			background:#ff7f27;
+			color:#272727;
+			font-family:"Gill Sans", sans-serif;		
+		}
+		/*attributi pagina index*/
+		h1.titolo-home{
+			margin-left:25%;
+			text-align:center;
+			vertical-align:center;
+			font-size:450px;
+			color:#272727;
+		}
+		div.home{
+		    padding-top:60px;
+			margin-left:20%;
+			font-size: 25px;
+		}
+		.topbar{
+		    margin-top:-20px;
+		    padding-top:20px;
+			padding-bottom:20px;
+			background-color:#272727;
+			overflow:hidden; /*se il contenuto si sovrappone all'elemento*/		
+			padding-left:20%;		
+		}
+		.topbar a{ /*Stile dei link*/	
+			float:center;
+			color:#fff;
+			text-align:center;
+			margin-left:10px;
+			font-size:22px;
+			text-decoration:none;
+			
+		}
+		.topbar a:hover{
+  			color: #ff7f27;			
+		}
+		.topbar img{
+			float:left;
+			margin:auto;
+			width:20%;	
+		}	
+        .btn{
+		    padding-left:13%;
+		 	float: left;
+			width: 10%;
+		 }
+		 .locandina{
+		 	text-align:center;
+		 }
+		 .locandina img{
+		 	width:40%;
+            border-style:solid;
+		    border-color:#272727;
+		 }
+		
+		 
